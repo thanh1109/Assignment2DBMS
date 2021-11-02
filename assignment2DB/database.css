@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background-color:darkblue;
+    padding: 30px;
+}
+footer{
+    background-color: darkgray;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.card{
+    width: 50%;
+    margin-left: 25%;
+}
